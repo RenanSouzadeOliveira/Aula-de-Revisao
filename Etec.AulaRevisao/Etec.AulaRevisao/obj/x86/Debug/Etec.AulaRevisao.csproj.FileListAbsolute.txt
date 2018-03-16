@@ -1,0 +1,16 @@
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.AulaRevisao\Etec.AulaRevisao\bin\Debug\Etec.AulaRevisao.exe
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.AulaRevisao\Etec.AulaRevisao\bin\Debug\Etec.AulaRevisao.pdb
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.Form1.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.Properties.Resources.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.exe
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.pdb
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.exe
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.pdb
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\bin\Debug\Etec.AulaRevisao.exe
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\bin\Debug\Etec.AulaRevisao.pdb
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.Form1.resources
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.Properties.Resources.resources
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C#\Etec.AulaRevisao\Etec.AulaRevisao\obj\x86\Debug\GenerateResource.write.1.tlog

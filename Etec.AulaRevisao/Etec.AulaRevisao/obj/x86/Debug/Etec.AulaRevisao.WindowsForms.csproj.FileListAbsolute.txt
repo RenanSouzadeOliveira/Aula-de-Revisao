@@ -1,0 +1,7 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.AulaRevisao.WindowsForms\bin\Debug\Etec.AulaRevisao.WindowsForms.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.AulaRevisao.WindowsForms\bin\Debug\Etec.AulaRevisao.WindowsForms.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.AulaRevisao.WindowsForms\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.Form1.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.AulaRevisao.WindowsForms\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.AulaRevisao.WindowsForms\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.AulaRevisao.WindowsForms\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.AulaRevisao.WindowsForms\obj\x86\Debug\Etec.AulaRevisao.WindowsForms.pdb
